@@ -1,0 +1,10 @@
+//num to words
+#include<stdio.h>
+int main()
+{
+    int n;
+    printf("Enter the Values: ");
+    scanf("%d ",&n);
+    
+    return 0;
+}

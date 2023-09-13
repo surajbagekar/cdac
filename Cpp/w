@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+    int num, res;
+    printf("Enter the Values: ");
+    scanf("%d ",&a);
+    num
+    return 0;
+}
